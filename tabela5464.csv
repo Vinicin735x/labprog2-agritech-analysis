@@ -1,0 +1,31 @@
+﻿"Tabela 5464 - Empresas que realizaram dispêndios com atividades inovativas e Valor dos dispêndios com atividades inovativas, por atividades inovativas desenvolvidas e atividades da indústria, do setor de eletricidade e gás e dos serviços selecionados"
+"Brasil"
+"Atividades da indústria, do setor de eletricidade e gás e dos serviços selecionados";"Atividades inovativas x Variável x Ano"
+"Atividades da indústria, do setor de eletricidade e gás e dos serviços selecionados";"Total"
+"Atividades da indústria, do setor de eletricidade e gás e dos serviços selecionados";"Valor dos dispêndios com atividades inovativas (Mil Reais)"
+"Atividades da indústria, do setor de eletricidade e gás e dos serviços selecionados";"2008";"2011";"2014";"2017"
+"10 FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS";"5823511";"7814361";"7106516";"6398946"
+"11 FABRICAÇÃO DE BEBIDAS";"894340";"1273885";"2152772";"1042798"
+"20 FABRICAÇÃO DE PRODUTOS QUÍMICOS";"4279988";"4583634";"4748945";"5879315"
+"28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária";"...";"523388";"680082";"418043"
+"Fonte: IBGE - Pesquisa de Inovação"
+
+"Notas"
+"1 - As informações de natureza quantitativa (dispêndios, pessoal ocupado, receita líquida de vendas e % de impactos das inovações) e também de uso de biotecnologia e de nanotecnologia se referem ao último ano do triênio de referência da pesquisa; ao passo que as informações de natureza qualitativa se referem ao triênio de referência da pesquisa."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
