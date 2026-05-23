@@ -105,3 +105,11 @@ Modelo preditivo com dispêndio em inovação como variável independente.
 IBGE — Instituto Brasileiro de Geografia e Estatística.  
 **Pesquisa de Inovação (PINTEC).**  
 Disponível em: https://www.ibge.gov.br/pintec
+
+---
+
+## ✍️ Autores
+
+- Kaique Araújo
+- Kauan Menezes
+- Vinícius Castelhano
